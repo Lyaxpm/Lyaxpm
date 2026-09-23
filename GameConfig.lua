@@ -92,8 +92,8 @@ GameConfig.Credits = {
 	HeaderImage  = _DEFAULT_IMAGE,
 	HeaderHeight = 130,
 	Sections = {
-		{ label = "Development", type = "single", names = { "'AYYLASTUDIO'" } },
-		{ label = "Moderation",  type = "grid",   names = { "RAMLI", "RAKA" } },
+		{ label = "Development", type = "single", names = { "'0xGen'" } },
+		{ label = "Moderation",  type = "grid",   names = { "-", "-" } },
 		{ label = "Key Players", type = "player", prefix = "You" },
 	},
 	GroupId        = 488009546, 
